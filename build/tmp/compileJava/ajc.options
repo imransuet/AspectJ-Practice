@@ -1,0 +1,10 @@
+-inpath
+/home/saif/Intellij Repo/NewAop/build/classes/java/main
+-classpath
+/home/saif/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.9.6/1651849d48659e5703adc2599e694bf67b8c3fc4/aspectjrt-1.9.6.jar
+-d
+/home/saif/Intellij Repo/NewAop/build/classes/java/main
+-target
+11
+-source
+11
