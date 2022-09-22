@@ -1,3 +1,4 @@
+/*
 package com.saif;
 
 import org.aspectj.lang.annotation.*;
@@ -25,3 +26,5 @@ public class LogAspect {
     }
 
 }
+
+*/
